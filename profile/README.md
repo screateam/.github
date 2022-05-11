@@ -28,13 +28,13 @@
 
 [members/nsc-de/avatar]: https://github.com/nsc-de.png?size=40
 [members/tester0881/avatar]: https://github.com/github.png?size=40
-[members/silvestershadow/avatar]: https://github.com/silvestershadow.png?size=40
+[members/silvestershadow/avatar]: https://github.com/github.png?size=40
 
 <!-- Member Small Avatars: -->
 
 [members/nsc-de/avatar/small]: https://github.com/nsc-de.png?size=12
 [members/tester0881/avatar/small]: https://github.com/github.png?size=12
-[members/silvestershadow/avatar/small]: https://github.com/silvestershadow.png?size=12
+[members/silvestershadow/avatar/small]: https://github.com/github.png?size=12
 
 <!-- Member GitHub accounts -->
 
